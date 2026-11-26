@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.rentvideo.RentalServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-11-26T04:41:56" hostname="BBLPT1222" time="0.529">
+  <properties/>
+  <testcase name="rentFailsWhenUserAlreadyHasTwoActiveRentals()" classname="com.rentvideo.RentalServiceTest" time="0.49"/>
+  <testcase name="rentFailsWhenVideoNotAvailable()" classname="com.rentvideo.RentalServiceTest" time="0.006"/>
+  <testcase name="rentFailsWhenVideoMissing()" classname="com.rentvideo.RentalServiceTest" time="0.004"/>
+  <testcase name="returnMakesVideoAvailableAgain()" classname="com.rentvideo.RentalServiceTest" time="0.008"/>
+  <testcase name="rentMarksVideoUnavailableAndCreatesRental()" classname="com.rentvideo.RentalServiceTest" time="0.009"/>
+  <testcase name="returnFailsWithoutActiveRental()" classname="com.rentvideo.RentalServiceTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
